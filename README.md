@@ -6,6 +6,9 @@ Soy un **Desarrollador Web y Móvil** con experiencia en tecnologías como **Jav
 🔹 Actualmente en búsqueda de oportunidades en desarrollo web.  
 🔹 Experiencia en backend y frontend con diferentes tecnologías.  
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 ## 🚀 Tecnologías & Herramientas
 ✅ JavaScript | React | Node.js | Express  
 ✅ MongoDB | SQL | Spring Boot  
@@ -21,6 +24,7 @@ Soy un **Desarrollador Web y Móvil** con experiencia en tecnologías como **Jav
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=merko)  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertomog88&show_icons=true&locale=en&layout=compact" alt="albertomog88" /></p>
 
 ## 🌟 Proyectos destacados
 🔹 [Nombre del Proyecto](URL-del-repo) - Breve descripción  
