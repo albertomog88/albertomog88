@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # ¡Hola! 👋 Soy Alberto
 
 ## 💡 Sobre mí
