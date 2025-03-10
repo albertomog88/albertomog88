@@ -21,7 +21,7 @@ Soy un **Desarrollador Web y Móvil** con experiencia en tecnologías como **Jav
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?albertomo88=tuusuario&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertomo88=tuusuario&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertomo88&layout=compact&theme=merko)  
 
 
