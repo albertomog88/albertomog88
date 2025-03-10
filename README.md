@@ -2,15 +2,25 @@
 
 # ¡Hola! 👋 Soy Alberto
 
-🚀 Desarrollador web y móvil | Apasionado por la ciencia de datos  
-🎯 Buscando oportunidades para crecer y aprender cada día  
-⚽ Amante del fútbol, el gimnasio y la tecnología  
+## 💡 Sobre mí
+Soy un **Desarrollador Web y Móvil** con experiencia en tecnologías como **JavaScript, Node.js, y SQL**. Me apasiona la innovación, el desarrollo de software eficiente y la mejora continua.  
 
-## 💻 Tecnologías y herramientas
-- 🖥️ **Front-end:** HTML, CSS, JavaScript, Bootstrap, React
-- ⚙️ **Back-end:** Node.js, Express, Spring Boot
-- 🛢️ **Bases de datos:** SQL, MongoDB, PL/SQL
-- ☁️ **Otros:** Git, Linux (Fedora), Notion para organización
+🔹 Actualmente en búsqueda de oportunidades en desarrollo web.  
+🔹 Experiencia en backend y frontend con diferentes tecnologías.  
+
+## 🚀 Tecnologías & Herramientas
+✅ JavaScript | React | Node.js | Express  
+✅ MongoDB | SQL | Spring Boot  
+✅ Git | Docker | Linux  
+
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
 
 ## 🌟 Proyectos destacados
 🔹 [Nombre del Proyecto](URL-del-repo) - Breve descripción  
