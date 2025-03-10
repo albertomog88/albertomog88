@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**albertomog88/albertomog88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 Soy Alberto
 
-Here are some ideas to get you started:
+🚀 Desarrollador web y móvil | Apasionado por la ciencia de datos  
+🎯 Buscando oportunidades para crecer y aprender cada día  
+⚽ Amante del fútbol, el gimnasio y la tecnología  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías y herramientas
+- 🖥️ **Front-end:** HTML, CSS, JavaScript, Bootstrap, React
+- ⚙️ **Back-end:** Node.js, Express, Spring Boot
+- 🛢️ **Bases de datos:** SQL, MongoDB, PL/SQL
+- ☁️ **Otros:** Git, Linux (Fedora), Notion para organización
+
+## 🌟 Proyectos destacados
+🔹 [Nombre del Proyecto](URL-del-repo) - Breve descripción  
+🔹 [Nombre del Proyecto](URL-del-repo) - Breve descripción  
+
+## 📫 Contacto
+- 📧 Email: [tuemail@example.com](mailto:amorenogracia@gmail.com)
+- 💼 LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/amorenogracia/)
+
+---
+⭐ No dudes en echar un ojo a mis proyectos y contribuir si te interesa.
