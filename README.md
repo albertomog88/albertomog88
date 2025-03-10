@@ -19,7 +19,6 @@ Soy un **Desarrollador Web y Móvil** con experiencia en tecnologías como **Jav
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=merko)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=merko)  
 
 
